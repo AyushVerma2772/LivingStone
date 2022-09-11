@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LivingStone/static/css/main.8d8f9a94.css",
+    "main.js": "/LivingStone/static/js/main.8537d827.js",
+    "static/js/787.22a05dae.chunk.js": "/LivingStone/static/js/787.22a05dae.chunk.js",
+    "static/media/HomeBg.jpg": "/LivingStone/static/media/HomeBg.6255115ff729af4503f4.jpg",
+    "static/media/fill.jpg": "/LivingStone/static/media/fill.f0dc6f6fc014e529ed98.jpg",
+    "static/media/submit.jpg": "/LivingStone/static/media/submit.2e6be6d6eb44636ecba5.jpg",
+    "static/media/tt.jpg": "/LivingStone/static/media/tt.7bd7b7687b961dc9be61.jpg",
+    "static/media/ss.jpg": "/LivingStone/static/media/ss.3056ef053d203c70652c.jpg",
+    "static/media/help-boy.png": "/LivingStone/static/media/help-boy.e922117fadf7bb34de0e.png",
+    "static/media/boy.png": "/LivingStone/static/media/boy.5c54dbe12bfd7f1e0170.png",
+    "index.html": "/LivingStone/index.html",
+    "main.8d8f9a94.css.map": "/LivingStone/static/css/main.8d8f9a94.css.map",
+    "main.8537d827.js.map": "/LivingStone/static/js/main.8537d827.js.map",
+    "787.22a05dae.chunk.js.map": "/LivingStone/static/js/787.22a05dae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d8f9a94.css",
+    "static/js/main.8537d827.js"
+  ]
+}
