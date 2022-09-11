@@ -1,0 +1,36 @@
+/* Home Background image */
+.homeBg {
+    /* width: 1521px; */
+    width: 100%;
+    height: 727px;
+    background: url("../Images/HomeBg.jpg");
+    background-size: cover;
+  }
+  
+  .applyBtn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 30px;
+    gap: 10px;
+  
+    position: absolute;
+    width: 170px;
+    height: 43px;
+    left: 134px;
+    top: 592px;
+  
+    background: #e8a902;
+    border-radius: 6px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    border: 0;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  
+  

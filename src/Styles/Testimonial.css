@@ -1,0 +1,58 @@
+/* Testimonial card */
+.my-slider {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .test-card {
+    background-color: #f6f6f6;
+    width: 1521px;
+    height: 508px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .test-img {
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+  }
+  
+  .test-para {
+    width: 1329px;
+    height: 166px;
+    word-wrap: break-word;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Alegreya';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22.3059px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+  }
+  
+  .test-heading {
+    font-family: 'Alegreya';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    letter-spacing: 0.02em;
+  }
+  
+  .swiper-pagination-bullet {
+    background-color: #1f1f1f !important;
+  }
+  
+  .swiper-pagination-bullet-active {
+    background-color: #F2C216 !important;
+  }
+  
